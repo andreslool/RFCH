@@ -522,6 +522,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	background:#382d5e!important;
 	color:#FFFFFF!important;
 }
+.btn-primary-color {
+	background: #686895;
+	color: #FFFFFF !important;
+}
+
+.btn-primary-color:hover {
+	background: #503995 !important;
+	color: #FFFFFF !important;
+}
 
 /* Icon colour styles */
 
